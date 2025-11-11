@@ -21,7 +21,7 @@ O modelo separa os conceitos de **catálogo (Produto)** e **vendas (Pedido / Ite
 ## 🧩 Diagrama Conceitual / Lógico
 O modelo a seguir representa o relacionamento entre as entidades principais:
 
-![Diagrama Lógico](./0e31e6f5-5db3-4f10-968a-40dc3b8cb8e1.png)
+![Diagrama Lógico](./assets/diagrama.png)
 
 ---
 
